@@ -113,3 +113,11 @@ Copy the generated hash outputs and insert them directly into the `users` table 
 ## 6. Technical Notes
 * **MQTT Connectivity**: The system features graceful degradation. If an MQTT broker is not detected, the application remains fully functional via HTTP/REST communication.
 * **Architecture**: The application is built using a three-tier architecture (Data, Service, and Presentation layers) to ensure modularity and scalability.
+
+## Acknowledgments and References
+The following resources and tools were utilized during development:
+
+- **Frameworks & Libraries:** ASP.NET Core 8.0, Entity Framework Core, Npgsql, MQTTnet, and Moq (xUnit).
+- **Security:** The `bcrypt` Python library was used for password hashing demonstrations.
+- **AI Collaboration:** Gemini (Google AI) was used as a technical collaborator for code optimization, architectural advice, and documentation assistance.
+- **Documentation:** Official Microsoft .NET and PostgreSQL documentation.
