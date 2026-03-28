@@ -1,0 +1,12 @@
+D:\411\raspberry-pi\irrigation_project\Code\Publish\IrrigationSystem.Web.exe
+D:\411\raspberry-pi\irrigation_project\Code\Publish\appsettings.Development.json
+D:\411\raspberry-pi\irrigation_project\Code\Publish\appsettings.json
+D:\411\raspberry-pi\irrigation_project\Code\Publish\IrrigationSystem.Web.dll
+D:\411\raspberry-pi\irrigation_project\Code\Publish\IrrigationSystem.Web.deps.json
+D:\411\raspberry-pi\irrigation_project\Code\Publish\IrrigationSystem.Web.runtimeconfig.json
+D:\411\raspberry-pi\irrigation_project\Code\Publish\IrrigationSystem.Web.pdb
+D:\411\raspberry-pi\irrigation_project\Code\Publish\BCrypt.Net-Next.dll
+D:\411\raspberry-pi\irrigation_project\Code\Publish\MQTTnet.dll
+D:\411\raspberry-pi\irrigation_project\Code\Publish\Npgsql.dll
+D:\411\raspberry-pi\irrigation_project\Code\Publish\Radzen.Blazor.dll
+D:\411\raspberry-pi\irrigation_project\Code\Publish\System.Diagnostics.DiagnosticSource.dll
